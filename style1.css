@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+  }
+  
+  html {
+    background: #fef6e4;
+    font-family: sans-serif;
+    color: #271c19;
+    font-size: 14px;
+  }
+  
+  .container {
+    background-color: #8bd3dd;
+    border: 2px dashed #f582ae;
+    margin: 50px auto;
+    width: 400px;
+    height: 100px;
+    padding: 20px;
+  }
+  
+  strong {
+    background-color: #ffc0ad;
+  }
+  
+  .inline {
+    background-color: #ffc0ad;
+    width: 25px;
+    display: inline;
+  }
+  
+  .inlineBlock {
+    background-color: #ff8ba7;
+    width: 50px;
+    display: inline-block;
+  }
+  
+  .two {
+    float: right;
+  }
+  
+  .three {
+    float: right;
+  }
+  
+  
+  
+  
